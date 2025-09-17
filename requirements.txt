@@ -4,3 +4,4 @@ pymongo==4.15.1
 pyaes==1.6.1
 pysocks==1.7.1
 dnspython==2.8.0
+python-3.11.8
