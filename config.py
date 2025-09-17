@@ -6,8 +6,7 @@ API_HASH = "57b1f632044b4e718f5dce004a988d69"  # উদাহরণ Hash
 BOT_TOKEN = "8397257911:AAHVsXuyAU8gcK4VmJYz9mqsmZxfcOMOvGs"
 
 # MongoDB
-MONGO_URI = "mongodb+srv://test:hvM1kLeXCCSXXb1u@cluster0.mrfgvxy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-"
+MONGO_URI = "mongodb+srv://test:hvM1kLeXCCSXXb1u@cluster0.mrfgvxy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 # Admins & Channels
 ADMINS = [7170990925]                # উদাহরণ admin user ID
