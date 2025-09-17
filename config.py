@@ -1,17 +1,18 @@
 # ----------------------------
 # Bot & API Config
 # ----------------------------
-API_ID = 1234567                  # উদাহরণ ID
-API_HASH = "abcdef1234567890abcdef1234567890"  # উদাহরণ Hash
-BOT_TOKEN = "1234567890:ABCDEF_example_bot_token"
+API_ID = 24776633                  # উদাহরণ ID
+API_HASH = "57b1f632044b4e718f5dce004a988d69"  # উদাহরণ Hash
+BOT_TOKEN = "8397257911:AAHVsXuyAU8gcK4VmJYz9mqsmZxfcOMOvGs"
 
 # MongoDB
-MONGO_URI = "mongodb+srv://user:pass@cluster0.mongodb.net/movie_bot?retryWrites=true&w=majority"
+MONGO_URI = "mongodb+srv://test:hvM1kLeXCCSXXb1u@cluster0.mrfgvxy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+"
 
 # Admins & Channels
-ADMINS = [111111111]                # উদাহরণ admin user ID
-FILE_STORE_CHANNEL = -1001234567890 # উদাহরণ file store channel
-LOG_CHANNEL = -1009876543210        # উদাহরণ log channel
+ADMINS = [7170990925]                # উদাহরণ admin user ID
+FILE_STORE_CHANNEL = -1002995070932 # উদাহরণ file store channel
+LOG_CHANNEL = -1002883125510      # উদাহরণ log channel
 
 # Bot Options
 MAX_BUTTONS = 8
